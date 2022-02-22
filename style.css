@@ -1,9 +1,0 @@
-@font-face {
-    font-family: vazir;
-    src: url(fonts/Vazir-Regular.woff) format("woff");
-}
-body{
-background-color: #696969;
-font-family: vazir;
-position: relative;
-}
